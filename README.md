@@ -50,7 +50,9 @@ Server runs on http://localhost:5000 and client on http://localhost:3000
 * retrieve all data
 
 ## To-Do
-- [] add log-out capability
+- [ ] add log-out capability
+- [ ] add OAuth2 authentication
+- [ ] make all data only accessible once the user is logged in
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
