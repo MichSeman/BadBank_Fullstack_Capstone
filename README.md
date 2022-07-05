@@ -2,7 +2,7 @@
 
 ## The BadBank
 
-This Fullstack banking application emulates how a withdraw and deposit works on a bank. It has a login/create account that you need to use to authenticate the users access before you can use the `withdraw` and `deposit` features, the credentials for registers users are placed on the `All Data` tab. 
+This Fullstack banking application emulates how a withdraw and deposit works on a bank. It has `login` and `create account` tabs that you need to sign up or in on first to authenticate the users access before you can use the `withdraw` and `deposit` features, the credentials for registers users are placed on the `All Data` tab. 
 
 This project was bootstrapped with [Create React App].  
 
