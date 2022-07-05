@@ -35,15 +35,22 @@ Server runs on http://localhost:5000 and client on http://localhost:3000
 * JavaScript
 * React js
 * Formik
-* Bootstrap 
+* Bootstrap (card, navbar)
 ### Server Side
 * MongoDB
 * Mongoose
 * Express
 * Node.js
 
+## Features
+* create account
+* login
+* deposit
+* withdraw
+* retrieve all data
 
-
+## To-Do
+- [] add log-out capability
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
