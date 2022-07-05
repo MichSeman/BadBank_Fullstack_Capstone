@@ -8,15 +8,15 @@ This project was bootstrapped with [Create React App].
 
 ## Installation guide
 
-*accessing the code
+accessing the code
 
-Clone the git repository
+*Clone the git repository
 
-*Install dependencies for server & client
+Install dependencies for server & client
 
-npm install
+*npm install
 
-*Run client & server with concurrently
+Run client & server with concurrently
 
 *npm run dev
 
