@@ -22,7 +22,7 @@ Run client & server with concurrently
 
 Server runs on http://localhost:5000 and client on http://localhost:3000
 
-* Be sure to add your custom MONGO_URI to the .env file 
+** Be sure to add your custom MONGO_URI to the .env file 
 
 
 ## License
