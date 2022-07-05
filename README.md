@@ -10,17 +10,19 @@ This project was bootstrapped with [Create React App].
 
 accessing the code
 
-*Clone the git repository
+* Clone the git repository
 
 Install dependencies for server & client
 
-*npm install
+* npm install
 
 Run client & server with concurrently
 
-*npm run dev
+* npm run dev
 
 Server runs on http://localhost:5000 and client on http://localhost:3000
+
+* Be sure to add your custom MONGO_URI to the .env file 
 
 
 ## License
