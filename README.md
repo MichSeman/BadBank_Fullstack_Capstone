@@ -53,6 +53,6 @@ Server runs on http://localhost:5000 and client on http://localhost:3000
 - [ ] add log-out capability
 - [ ] add OAuth2 authentication
 - [ ] make all data only accessible once the user is logged in
-
+- [ ] 1/6/2023 UPDATE - Horoku deployment issues as Heroku deactivated free deployment
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
